@@ -1,0 +1,6 @@
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\bin\Debug\Strategy.exe
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\Tonny\Documents\GitHub\Design Pattern\Strategy\obj\Debug\Strategy.pdb
